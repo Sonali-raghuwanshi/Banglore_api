@@ -1,0 +1,16 @@
+Q1: Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
+Example: input: Honey Verma    output: Verma Honey
+
+Q2: Write a Python program which accepts the radius of a circle from the user and compute the area.
+
+Q3: Write a Python program to get the volume of a sphere with radius 6.
+
+Q4: Write a Python program to test whether a number is within 50 of 1000 or 2000. entered number shoulf be less than 2000.
+
+Q5: Write a program computes roots of a quadratic equation when coefficients a, b and c are given by user.check all the conditions.
+
+Q6: Write a program to check if year is a leap year or not.
+
+Q7: Write a program to display the Fibonacci sequence up to n-th term
+
+Q8: Write a program to find the factors of a number
